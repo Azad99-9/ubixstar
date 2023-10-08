@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAhBq2Vkp9odXtKWDEzH0rDP_3yxlTdej0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>707694973433</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ubixstar.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>ubixstar-a438a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ubixstar-a438a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:707694973433:ios:a3f3c71f5d51c39c996d28</string>
+</dict>
+</plist>
